@@ -2,7 +2,7 @@ class sum
 {
 	public static void main(String[] args)
 	{
-		in a,b,c;
+		int a,b,c;
 		a=50;
 		b=600;
 		c=1000;
