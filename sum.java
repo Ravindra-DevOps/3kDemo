@@ -1,12 +1,12 @@
 class sum
 {
-	public staic void main(String[] args)
+	public static void main(String[] args)
 	{
 		in a,b,c;
 		a=50;
-		b=
+		b=600;
 		c=1000;
-c=a+b+;
+c=a+b+c;
 		System.out.println("The sum of three values are "+c);
 	}
 }
